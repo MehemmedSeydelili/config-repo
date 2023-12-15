@@ -34,4 +34,4 @@ springdoc:
       - url: /MS-USER/v3/api-docs
         name: User Service
       - url: /MS-ACCOUNT/v3/api-docs
-        name: Payment Service
+        name: Account Service
