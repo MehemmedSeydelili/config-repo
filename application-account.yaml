@@ -13,3 +13,14 @@ eureka:
   client:
     service-url:
       defaultZone: http://localhost:8761/eureka
+
+openapi:
+  service:
+    title: account-service doc
+    version: 1.0.0
+    url: http://localhost:8020
+springdoc:
+  api-docs:
+    path: /account-service/v3/api-docs
+  swagger-ui:
+    path: /account-service/swagger-ui.html
