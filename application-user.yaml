@@ -19,11 +19,11 @@ eureka:
 
 openapi:
   service:
-    title: user-service doc
+    title: MS-USER doc
     version: 1.0.0
     url: http://localhost:8020
 springdoc:
   api-docs:
-    path: /uaer-service/v3/api-docs
+    path: /MS-USER/v3/api-docs
   swagger-ui:
-    path: /user-service/swagger-ui.html
+    path: /MS-USER/swagger-ui.html
