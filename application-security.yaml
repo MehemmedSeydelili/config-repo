@@ -21,3 +21,8 @@ springdoc:
     path: /security-service/v3/api-docs
   swagger-ui:
     path: /security-service/swagger-ui.html
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
