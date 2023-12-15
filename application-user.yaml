@@ -21,7 +21,7 @@ openapi:
   service:
     title: user-service doc
     version: 1.0.0
-    url: http://localhost:8080
+    url: http://localhost:8020
 springdoc:
   api-docs:
     path: /uaer-service/v3/api-docs
