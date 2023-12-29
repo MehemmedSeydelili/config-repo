@@ -16,7 +16,7 @@ eureka:
 
 openapi:
   service:
-    title: account-service doc
+    title: ms-account doc
     version: 1.0.0
     url: http://localhost:8020
 springdoc:
